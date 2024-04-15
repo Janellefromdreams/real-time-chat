@@ -1,0 +1,16 @@
+	
+	Follow instructions to run this code
+
+	1. Open the main folder in VS Code
+
+	2. Open terminal window and write the command below to install the required frameworks:
+	npm i express ws socket.io
+
+	3. Then run the server.js
+
+	4. To check other options, you can search these links in any browser (while a server running):
+	
+	http://localhost:3000/				Respond: hi
+	http://localhost:3000/json			Respond: json information
+	http://localhost:3000/echo?input=example	Respond: output of several functions 
+	http://localhost:3000/static 			Respond: opens My Chat
